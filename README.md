@@ -2,7 +2,7 @@
 
 ## Required environment variables
 
-- `NUXT_ENV_DATO_API_TOKEN`: read-only API token for DatoCMS.
+- `NUXT_ENV_DATO_TOKEN`: read-only API token for DatoCMS.
 
 ## Build Setup
 
